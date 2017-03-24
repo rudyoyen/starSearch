@@ -1,0 +1,15 @@
+{
+  "name": "star-search",
+  "version": "1.0.0",
+  "description": "\"Movie search tool\"",
+  "main": "movies.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^3.2.0"
+  }
+}
+
