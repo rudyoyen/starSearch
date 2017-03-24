@@ -45,7 +45,7 @@ class Movie
 	end
 
 	def make_stars 
-		puts @stars.split(",").length
+		puts @stars.split(",").length #be careful of spaces between names
 	end
 
 end
