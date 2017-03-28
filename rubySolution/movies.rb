@@ -1,5 +1,3 @@
-
-
 class MovieDatabase
 
 	def initialize(filename, lines_per_movie, spaces_between_movie, stars_line_index)
